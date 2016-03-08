@@ -1,6 +1,6 @@
 # Meetup
 
-> [一个简单的小网站](project.zltunes.com)，登录用户可以发布信息，参与者发表评论。
+> 一个简单的小网站，登录用户可以发布信息，参与者发表评论。
 
 > 基于[Ruby On Rails](http://rubyonrails.org/)搭建。
 
