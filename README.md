@@ -23,7 +23,7 @@
 
 # 亮点
 
-- ###开发环境
+- ### 开发环境
   [Vagrant](https://www.vagrantup.com/)+[VirtualBox](https://www.virtualbox.org/wiki/Downloads) 打造跨平台开发环境。
 
 - ### 架构（DRY 原则 更加优雅的MVC）
