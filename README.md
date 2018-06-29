@@ -6,22 +6,22 @@
 
 > [关于这个网站是怎么搭建的](http://zltunes.com/rails-da-zao-web-app/) 
 
-#Development Environment
+# Development Environment
     ruby 2.1.2
     rails 4.1.2
     Ubuntu 14.04
     Mac OS X EI Capitan
     
-#Build
+# Build
     configure your rails and nodejs environment
     'bundle'
     
-#Preview
+# Preview
 ![](http://ww4.sinaimg.cn/large/005tGCqhjw1f1pkrow5hkj31kw0vcaqw.jpg)
 
 ![](http://ww4.sinaimg.cn/large/005tGCqhjw1f1pkrxjpewj31kw0vb0x3.jpg)
 
-#亮点
+# 亮点
 
 - ###开发环境
   [Vagrant](https://www.vagrantup.com/)+[VirtualBox](https://www.virtualbox.org/wiki/Downloads) 打造跨平台开发环境。
